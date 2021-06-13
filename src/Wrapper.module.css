@@ -1,0 +1,5 @@
+@value headline  from './Headline.module.css';
+
+.wrapper .headline {
+    color: orange;
+}
